@@ -1,0 +1,4 @@
+actor: BridgeFormModelTester
+modules:
+    enabled:
+        - Asserts

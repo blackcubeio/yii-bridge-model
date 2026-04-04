@@ -1,0 +1,4 @@
+actor: BridgeTester
+modules:
+    enabled:
+        - Asserts

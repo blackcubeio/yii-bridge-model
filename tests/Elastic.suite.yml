@@ -1,0 +1,4 @@
+actor: ElasticTester
+modules:
+    enabled:
+        - Asserts

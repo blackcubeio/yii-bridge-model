@@ -1,0 +1,4 @@
+actor: MapperTester
+modules:
+    enabled:
+        - Asserts

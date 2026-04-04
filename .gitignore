@@ -1,0 +1,9 @@
+.idea
+*.iml
+.claude
+vendor
+composer.lock
+tests/_output/*
+.DS_Store
+.env
+.merge-plan.php
